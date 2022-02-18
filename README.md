@@ -12,6 +12,6 @@ Fonte dos dados: https://dados.gov.br/
 
 >> <br>Jaqueline Mangabeira - https://github.com/JaquelineMangabeira</br>
 >> <br>Beatriz Laquini - https://github.com/laquinib</br>
->> <br>Henrique Lima - </br>
+>> <br>Henrique Lima -  https://github.com/Henrikenzie </br>
 >> <br>Jonathas Carvalho - https://github.com/jonathaslkc</br>
 >> <br>Laio Gomes - https://github.com/LaioGomes</br>
