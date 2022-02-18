@@ -10,10 +10,10 @@ Os desafios propostos foram, além de responder às 10 questões, realizar a lim
 
 As fontes de dados que foram utilizadas no projeto estão disponíveis no portal dados.gov.
 
-Os participantes do projeto foram:
+<br>Os participantes do projeto foram:</br>
 
-Jaqueline Mangabeira - https://github.com/JaquelineMangabeira
-Beatriz Laquini - https://github.com/laquinib
-Henrique Lima - 
-Jonathas Carvalho - https://github.com/jonathaslkc
-Laio Gomes - 
+>> <br>Jaqueline Mangabeira - https://github.com/JaquelineMangabeira</br>
+>> <br>Beatriz Laquini - https://github.com/laquinib</br>
+>> <br>Henrique Lima - </br>
+>> <br>Jonathas Carvalho - https://github.com/jonathaslkc</br>
+>> <br>Laio Gomes - </p>https://github.com/LaioGomes</br>
