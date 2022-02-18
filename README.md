@@ -16,4 +16,4 @@ As fontes de dados que foram utilizadas no projeto estão disponíveis no portal
 >> <br>Beatriz Laquini - https://github.com/laquinib</br>
 >> <br>Henrique Lima - </br>
 >> <br>Jonathas Carvalho - https://github.com/jonathaslkc</br>
->> <br>Laio Gomes - </p>https://github.com/LaioGomes</br>
+>> <br>Laio Gomes - https://github.com/LaioGomes</br>
